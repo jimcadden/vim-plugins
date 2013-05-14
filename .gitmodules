@@ -10,3 +10,6 @@
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = git://github.com/tpope/vim-fugitive.git
+[submodule "DoxygenToolkit.vim"]
+	path = DoxygenToolkit.vim
+	url = https://github.com/vim-scripts/DoxygenToolkit.vim
