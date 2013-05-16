@@ -13,3 +13,6 @@
 [submodule "DoxygenToolkit.vim"]
 	path = DoxygenToolkit.vim
 	url = https://github.com/vim-scripts/DoxygenToolkit.vim
+[submodule "a.vim"]
+	path = a.vim
+	url = git://github.com/vim-scripts/a.vim.git
