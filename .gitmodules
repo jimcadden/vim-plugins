@@ -25,3 +25,6 @@
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
 	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "QFEnter"]
+	path = QFEnter
+	url = https://github.com/yssl/QFEnter.git
