@@ -28,3 +28,6 @@
 [submodule "QFEnter"]
 	path = QFEnter
 	url = https://github.com/yssl/QFEnter.git
+[submodule "vim-rhubarb"]
+	path = vim-rhubarb
+	url = https://github.com/tpope/vim-rhubarb.git
