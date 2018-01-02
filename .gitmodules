@@ -31,3 +31,6 @@
 [submodule "vim-rhubarb"]
 	path = vim-rhubarb
 	url = https://github.com/tpope/vim-rhubarb.git
+[submodule "vim-unimpaired"]
+	path = vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired
